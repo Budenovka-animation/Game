@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Комната","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":303.3333333333333},
+{"id":2,"expanded":false,"name":"Концовки","order":4,"parentId":0,"scrollX":546,"scrollY":315.3333333333333},
+null,
+{"id":4,"expanded":true,"name":"Остановка","order":2,"parentId":0,"scrollX":720.6666666666666,"scrollY":411.3333333333333},
+{"id":5,"expanded":true,"name":"Квартира","order":3,"parentId":0,"scrollX":982.8,"scrollY":639.6}
+]
