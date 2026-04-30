@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Комната","order":1,"parentId":0,"scrollX":754,"scrollY":700},
-{"id":2,"expanded":false,"name":"Концовки","order":5,"parentId":0,"scrollX":754,"scrollY":424.6666666666667},
-{"id":3,"expanded":false,"name":"полигон","order":4,"parentId":5,"scrollX":754,"scrollY":385.3333333333333},
-{"id":4,"expanded":true,"name":"Остановка","order":2,"parentId":0,"scrollX":754,"scrollY":385.3333333333333},
-{"id":5,"expanded":true,"name":"Квартира","order":3,"parentId":0,"scrollX":759.3333333333334,"scrollY":577.3333333333334}
+{"id":1,"expanded":true,"name":"Комната","order":5,"parentId":0,"scrollX":811,"scrollY":704},
+{"id":2,"expanded":false,"name":"Концовки","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":411.55555555555554},
+{"id":3,"expanded":false,"name":"полигон","order":4,"parentId":4,"scrollX":589.8181818181819,"scrollY":389.09090909090907},
+{"id":4,"expanded":false,"name":"Остановка","order":3,"parentId":0,"scrollX":720.8888888888889,"scrollY":411.55555555555554},
+{"id":5,"expanded":true,"name":"Квартира","order":1,"parentId":0,"scrollX":811,"scrollY":463}
 ]
